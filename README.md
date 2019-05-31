@@ -2,25 +2,35 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Static type checker
 
-Typescript
+- Typescript
 
 ## IDE setting
 
-Visual Studio Code
+- Visual Studio Code
 
 ## Router
 
-react-router-dom
+- react-router-dom
 
 ## Style
 
-styled-components
+- styled-components
 
 ## Store
 
-redux
-redux-observable (rxJs)
+- redux
+- redux-observable (rxJs)
 
 ## Test
 
-jest
+- jest
+
+## Code convention
+
+- esLint
+- prettier
+
+## Git hooks
+
+- husky
+- lint-staged
