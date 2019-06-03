@@ -35,3 +35,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - husky
 - lint-staged
+
+# Scripts
+
+- npm run start
+  Starts local server
+
+- npm run test
+  Starts test
+
+- npm run build
+  Build
+
+- npm run analyze
+  Analyze code
