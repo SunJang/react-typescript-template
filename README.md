@@ -20,6 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - redux
 - redux-observable (rxJs)
+- redux-react-hook
 
 ## Test
 
