@@ -38,14 +38,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Scripts
 
+- npm install
+
+Install denpencies
+
 - npm run start
-  Starts local server
+
+Starts local server
 
 - npm run test
-  Starts test
+
+Starts test
 
 - npm run build
-  Build
+
+Build
 
 - npm run analyze
-  Analyze code
+
+Analyze code
