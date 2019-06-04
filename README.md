@@ -25,6 +25,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Test
 
 - jest
+- jest-dom
+- @testing-library/react (not use react-testing-library)
 
 ## Code convention
 
